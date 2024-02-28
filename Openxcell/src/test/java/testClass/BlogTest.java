@@ -13,20 +13,4 @@ public class BlogTest extends BeforeAfterTest{
 		System.out.println("Hello");
 	}
 	
-	@Test
-	public void method24() {
-		System.out.println("Hello");
-	}
-	
-	@Test
-	public void method245() {
-		System.out.println("Hello");
-	}
-	
-	@Test
-	public void method2456() {
-		System.out.println("Hello");
-	}
-
-
 }
