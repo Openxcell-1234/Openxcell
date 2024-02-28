@@ -8,6 +8,15 @@ public class BlogTest extends BeforeAfterTest{
 	public void method() {
 		System.out.println("Hello");
 	}
+	@Test
+	public void method2() {
+		System.out.println("Hello");
+	}
+	
+	@Test
+	public void method23() {
+		System.out.println("Hello");
+	}
 
 
 }
