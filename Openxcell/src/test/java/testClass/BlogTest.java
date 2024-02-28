@@ -17,6 +17,11 @@ public class BlogTest extends BeforeAfterTest{
 	public void method24() {
 		System.out.println("Hello");
 	}
+	
+	@Test
+	public void method245() {
+		System.out.println("Hello");
+	}
 
 
 }
