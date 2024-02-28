@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-28T08:47:00 IST" name="Default suite" finished-at="2024-02-28T08:47:08 IST" duration-ms="8231">
+    <groups>
+    </groups>
+    <test started-at="2024-02-28T08:47:00 IST" name="Default test" finished-at="2024-02-28T08:47:08 IST" duration-ms="8231">
+      <class name="testClass.LoginTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testClass.LoginTest@2d52216b]" started-at="2024-02-28T08:47:00 IST" name="beforeSuite" finished-at="2024-02-28T08:47:00 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:testClass.LoginTest@2d52216b]" started-at="2024-02-28T08:47:00 IST" name="beforeMethod" finished-at="2024-02-28T08:47:08 IST" duration-ms="7933" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=LoginTest.method()[pri:0, instance:testClass.LoginTest@2d52216b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="method()[pri:0, instance:testClass.LoginTest@2d52216b]" started-at="2024-02-28T08:47:08 IST" name="method" finished-at="2024-02-28T08:47:08 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testClass.LoginTest@2d52216b]" started-at="2024-02-28T08:47:08 IST" name="tearDown" finished-at="2024-02-28T08:47:08 IST" duration-ms="225" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=method status=SUCCESS method=LoginTest.method()[pri:0, instance:testClass.LoginTest@2d52216b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testClass.LoginTest@2d52216b]" started-at="2024-02-28T08:47:13 IST" name="afterSuite" finished-at="2024-02-28T08:47:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testClass.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
