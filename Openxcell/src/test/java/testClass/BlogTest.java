@@ -14,7 +14,7 @@ public class BlogTest extends BeforeAfterTest{
 	}
 	
 	@Test
-	public void method23() {
+	public void method24() {
 		System.out.println("Hello");
 	}
 
